@@ -1,0 +1,8 @@
+https://medium.com/techtalkers/a-beginners-guide-to-graphql-12d60d3fba03
+https://stackoverflow.com/questions/50021669/why-am-i-getting-a-cannot-return-null-for-non-nullable-field-error-when-doing
+https://medium.com/@virtual_khan/javascript-foreach-a-return-will-not-exit-the-calling-function-cfbc6fa7b199#:~:text=If%20we%20dissect%20the%20forEach,return%2C%20but%20to%20the%20forEach.
+
+
+//Packages : npm i apollo-server graphql.
+//Command : nodemon/node index
+

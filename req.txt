@@ -1,0 +1,27 @@
+mutation{
+  addUser(firstName : "monty",lastName : "singh",email : "abc@gmail.com"){
+    firstName
+    lastName
+    email
+  }
+}
+
+mutation{
+  deleteUser(email: "abc@gmail.com"){
+    firstName
+  }
+}
+
+mutation{
+  updateUser(email:"GraphQL@isCool.com", newEmail: "jagmeet@gmail.com")
+}
+
+query Query {
+  hello
+  randomNumber
+  queryUsers {
+    firstName
+    lastName
+    email
+  }
+}
